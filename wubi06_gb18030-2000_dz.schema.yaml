@@ -9,7 +9,7 @@
 
 schema:
   schema_id: wubi06_gb18030-2000_dz
-  name: "新世纪五笔·GB單字"
+  name: "新世纪五笔·GB单字"
   version: “20200107”
   author:
     - 發明人 王永民先生
