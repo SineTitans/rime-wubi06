@@ -9,7 +9,7 @@
 
 schema:
   schema_id: wubi06_big5
-  name: "新世紀五筆大五碼詞庫版(CNMan)"
+  name: "新世紀五筆·Big5"
   version: “20200225”
   author:
     - 發明人 王永民先生

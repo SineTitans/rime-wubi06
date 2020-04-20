@@ -9,7 +9,7 @@
 
 schema:
   schema_id: wubi06_tygfhzb_dz
-  name: "新世紀五筆通規單字版(CNMan)"
+  name: "新世纪五笔·单字"
   version: “20200107”
   author:
     - 發明人 王永民先生
@@ -20,7 +20,7 @@ schema:
     敲 z 鍵進入拼音反查
     敲 / 鍵進入symbols.yaml中的特殊字符輸入
   dependencies:
-    - luna_pinyin
+    - pinyin_simp
     - symbols
 
 switches:
