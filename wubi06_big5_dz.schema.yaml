@@ -76,7 +76,7 @@ translator:
   enable_user_dict: false
 
 reverse_lookup:
-  dictionary: pinyin_simp
+  dictionary: luna_pinyin
   prefix: "z"
   suffix: "'"
   tips: 〔拼音〕
