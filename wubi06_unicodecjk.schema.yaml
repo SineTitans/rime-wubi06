@@ -23,7 +23,7 @@
 
 schema:
   schema_id: wubi06_unicodecjk
-  name: "新世纪五笔·UNI"
+  name: "新世纪五笔·UNI单字"
   version: "20200209"
   author:
     - 發明人 王永民先生
